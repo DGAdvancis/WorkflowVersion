@@ -1,12 +1,4 @@
-1.6.1
-# 1.6.1
-- Somethin something
+1.6
 # 1.6
-- Zweikaufswagen
-# 1.5.3
-- Einkaufswagen
-# 1.5.2
-* First change
-* second change
-	* Sub change
-
+- Added missing task types
+- Fix update notification
