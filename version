@@ -1,5 +1,5 @@
 1.6.1
-#1.6.1
+# 1.6.1
 - Add global todos
 - Add todo validation to workflow steps
 - Remove global team mapping (can be done via steps)
