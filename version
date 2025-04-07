@@ -1,4 +1,4 @@
-1.6.3
+1.6.2
 # 1.6.1
 *Added missing task types
 *Fix update notification
@@ -7,5 +7,3 @@
 *Add todo validation to workflow steps
 *Remove global team mapping (can be done via steps)
 *Make settings ui fixed size
-# 1.6.3
-*Test
