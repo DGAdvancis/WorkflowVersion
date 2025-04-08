@@ -1,4 +1,7 @@
-1.6.5
+1.6.6
+# 1.6.6
+*Add info to footer
+*Don't use cache on version check
 # 1.6.5
 *Fix step changes not working
 *Fix global todos
