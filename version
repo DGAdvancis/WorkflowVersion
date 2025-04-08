@@ -1,4 +1,7 @@
-1.6.4
+1.6.5
+# 1.6.5
+*Fix step changes not working
+*Fix global todos
 # 1.6.4
 *Make settings ui wider
 # 1.6.3
