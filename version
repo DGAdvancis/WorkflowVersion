@@ -1,4 +1,8 @@
-1.6.8
+1.6.9
+# 1.6.9
+*Completly revamp the todo validation system to be more flexible
+*Fix bug with incorrectly added sub sections for global todos
+*Fix wrong tab being activated after saving in global todo editor
 # 1.6.8
 *Remove legacy EW-SST Todo checks
 # 1.6.7
