@@ -1,4 +1,6 @@
-1.6.9
+1.6.10
+# 1.6.10
+*Add overlay in popup window to signal the workflow is still being applied
 # 1.6.9
 *Completly revamp the todo validation system to be more flexible
 *Fix bug with incorrectly added sub sections for global todos
