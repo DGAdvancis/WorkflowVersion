@@ -1,4 +1,6 @@
-1.6.10
+1.6.11
+# 1.6.11
+*Fix incorrect import/export of workflows
 # 1.6.10
 *Add overlay in popup window to signal the workflow is still being applied
 # 1.6.9
