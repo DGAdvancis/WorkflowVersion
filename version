@@ -1,4 +1,8 @@
-1.6.11
+1.7
+# 1.7
+*Revamp workflow settings dialog
+*Add option to set current sprint
+*Add option to check CIR status for next step
 # 1.6.11
 *Fix incorrect import/export of workflows
 # 1.6.10
