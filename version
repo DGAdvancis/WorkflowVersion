@@ -3,6 +3,7 @@
 *Revamp workflow settings dialog
 *Add option to set current sprint
 *Add option to check CIR status for next step
+*Add ticket to task mapping
 # 1.6.11
 *Fix incorrect import/export of workflows
 # 1.6.10
