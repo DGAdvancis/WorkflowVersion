@@ -1,4 +1,9 @@
-1.7.1
+1.7.2
+# 1.7.2
+*Add feature to show task in work in task lists
+*Add custom icon for workflow settings
+*Make task type badges clickable in workflow editor
+*Various small changes
 # 1.7.1
 *Fix current user detection
 # 1.7
