@@ -1,4 +1,7 @@
-1.7.2
+1.7.3
+# 1.7.3
+*Fix modal dialogs opening behind settings window
+*Speed up ticket validation
 # 1.7.2
 *Add feature to show task in work in task lists
 *Add custom icon for workflow settings
