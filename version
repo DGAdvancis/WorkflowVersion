@@ -1,4 +1,6 @@
-1.7.4
+1.7.5
+# 1.7.5
+*Fix ticket validation not failing if no tasks on ticket
 # 1.7.4
 *Add lower and upper bound for ticket validation
 *Fix settings icon being invisible on collapsed nav bar
