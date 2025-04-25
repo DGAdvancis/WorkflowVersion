@@ -1,4 +1,7 @@
-1.7.3
+1.7.4
+# 1.7.4
+*Add lower and upper bound for ticket validation
+*Fix settings icon being invisible on collapsed nav bar
 # 1.7.3
 *Fix modal dialogs opening behind settings window
 *Speed up ticket validation
